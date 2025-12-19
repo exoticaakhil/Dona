@@ -12,11 +12,11 @@ export default function Contact(props) {
                     <ul className="list">
                         <li>
                             <strong>Email</strong>
-                            <span>akhilanilvly@gmail.com</span>
+                            <span>donaverma302@gmail.com</span>
                         </li>
                         <li>
                             <strong>Mobile</strong>
-                            <span>9072477900</span>
+                            <span>9302035365</span>
                         </li>
                         <li>
                             <strong>Address</strong>
